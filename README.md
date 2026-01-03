@@ -1,20 +1,32 @@
-# Hi, I'm Md Faiyaz 👋
+Hi, I'm Md Faiyaz 👋
+Senior Software Developer specializing in Frappe/ERPNext, REST APIs and backend integrations.
+Based in India, working on ERP, HRMS and automation solutions for SMEs.
+​
 
-Senior Software Developer specializing in Frappe/ERPNext, REST APIs and backend integrations.  
-I build ERP implementations, HRMS Android apps and automation for SMEs.
+Tech stack
+ERP / Backend: Frappe, ERPNext, REST APIs
 
-## Tech stack
-- ERP / Backend: Frappe, ERPNext, REST APIs
-- Languages: Python, Java, JavaScript, PHP, .NET, Node.js
-- Databases: MariaDB, MySQL, Oracle
-- DevOps: Linux, Nginx, bench, Git
+Languages: Python, Java, JavaScript, PHP, .NET, Node.js
 
-## Selected projects
-- HRMS Android app – Attendance & HR workflows using secure REST APIs with ERP backend.
-- Automobile ERP – ERPNext implementation with inventory, pricing and Tally migration.
-- AMC & Diagnostics ERPs – Contracts, scheduling, technician visits, lab/patient workflows.
-- AdiShunya LMS – Moodle + ERPNext based LMS for selling courses and managing students.
+Databases: MariaDB, MySQL, Oracle
 
-## Contact
-- LinkedIn: https://linkedin.com/in/itsmdfaiyaz
-- Email: itsmdfaiyaz@gmail.com
+DevOps: Linux, Nginx, bench, Git
+
+Other: HTML, CSS, Bootstrap, Git, VS Code
+​
+
+Selected projects
+HRMS Android app – Internal Android app for employee attendance and basic HR workflows using secure REST APIs with ERP backend.
+
+Automobile ERP – ERPNext implementation for an automobile spare parts business with inventory, pricing and service workflows plus Tally data migration.
+
+AMC & Diagnostics ERPs – ERPNext customizations to manage AMC contracts, service scheduling, technician visits and diagnostics/patient operations.
+
+AdiShunya LMS – Moodle + ERPNext based LMS for selling courses, managing enrollments and simple tests/exams.
+​
+
+Contact
+LinkedIn: https://linkedin.com/in/itsmdfaiyaz
+
+Email: itsmdfaiyaz@gmail.com
+​

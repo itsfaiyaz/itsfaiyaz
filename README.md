@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Md Faiyaz 👋
 
-<!--
-**itsfaiyaz/itsfaiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer specializing in Frappe/ERPNext, REST APIs and backend integrations.  
+I build ERP implementations, HRMS Android apps and automation for SMEs.
 
-Here are some ideas to get you started:
+## Tech stack
+- ERP / Backend: Frappe, ERPNext, REST APIs
+- Languages: Python, Java, JavaScript, PHP, .NET, Node.js
+- Databases: MariaDB, MySQL, Oracle
+- DevOps: Linux, Nginx, bench, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- HRMS Android app – Attendance & HR workflows using secure REST APIs with ERP backend.
+- Automobile ERP – ERPNext implementation with inventory, pricing and Tally migration.
+- AMC & Diagnostics ERPs – Contracts, scheduling, technician visits, lab/patient workflows.
+- AdiShunya LMS – Moodle + ERPNext based LMS for selling courses and managing students.
+
+## Contact
+- LinkedIn: https://linkedin.com/in/itsmdfaiyaz
+- Email: itsmdfaiyaz@gmail.com
